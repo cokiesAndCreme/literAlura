@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SoulApplication<soul>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.myApi.pc.soul.SoulApplication",
+            "projectName": "soul",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
